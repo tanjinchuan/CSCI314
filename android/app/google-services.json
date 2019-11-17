@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640763222796",
+    "firebase_url": "https://csci314.firebaseio.com",
+    "project_id": "csci314",
+    "storage_bucket": "csci314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640763222796:android:c7d4405579df12ca614729",
+        "android_client_info": {
+          "package_name": "com.example.fluttertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640763222796-3kiuln3b9s9l3mnueh3hm1l75f2peocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8gKbIjEuxbrqOwRPiAT4gUSqOirmpRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640763222796-3kiuln3b9s9l3mnueh3hm1l75f2peocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
